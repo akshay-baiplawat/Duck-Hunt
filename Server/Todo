@@ -1,0 +1,32 @@
+
+                Need molti system testing
+
+        Basic Main Game working need to work on
+
+        Ducks spawn location                                done
+        Ducks ending removal                                done
+        Score update not working
+
+        Game Over
+        Game Leave
+
+
+
+        Camera feed                                         tried, now need multi test
+            (Video Call)
+        Audio Call
+
+
+
+        camera close on back to menu
+
+        group remaining
+
+        udp punching
+            Server to client
+                    Added update address.
+
+            p2p
+                    Sending opponent address for update.
+                    try with tcp port first
+                    then go for udp
